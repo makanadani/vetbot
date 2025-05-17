@@ -29,6 +29,5 @@ Como médica veterinária, vivi diversas situações em que tutores chegaram mui
 
 ## 🌱 Possibilidades futuras
 
-- Reconhecimento de imagens ou vídeos de comportamentos  
-- Expansão para outras espécies de pets(roedores, aves etc.)  
-- Personalização por perfil do pet (idade, espécie, condição pré-existente)
+- Expansão para outras espécies de pets(roedores, aves, etc.)  
+- Personalização por perfil do pet (idade, espécie, condição pré-existente, etc.)
