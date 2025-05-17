@@ -1,4 +1,4 @@
-# 🐾 VetBot – Seu Assistente Virtual Inteligente para o Bem-Estar do Pet 🐶🐱
+# 🐾 VetBot – O Assistente Virtual do Seu Pet 🐶🐱
 
 ![VetBot Banner - Placeholder Image](vetbot.png)
 
