@@ -65,9 +65,10 @@ Para rodar o VetBot localmente no Google Colab, você precisará:
 Após configurar e executar o notebook no Google Colab:
 
 1.  O VetBot iniciará no terminal do Colab, com auxílio o Gradio, que gerará um link para acesso em outra aba.
-2.  Siga as instruções, fornecendo os detalhes solicitados sobre o seu pet (Nome, Espécie, Idade, etc.) e descreva o sintoma ou comportamento que te preocupa.
-3.  O VetBot processará as informações através de seus agentes.
-4.  Aguarde a resposta final, que incluirá informações educativas sobre o sintoma, a possível classificação de urgência e, se o CEP foi informado, sugestões de locais veterinários próximos.
+2.  ![gradio](gradio.png)
+3.  Siga as instruções, fornecendo os detalhes solicitados sobre o seu pet (Nome, Espécie, Idade, etc.) e descreva o sintoma ou comportamento que te preocupa.
+4.  O VetBot processará as informações através de seus agentes.
+5.  Aguarde a resposta final, que incluirá informações educativas sobre o sintoma, a possível classificação de urgência e, se o CEP foi informado, sugestões de locais veterinários próximos.
 
 ## 🖥️ Imagens da Interface
 
