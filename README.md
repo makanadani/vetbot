@@ -1,6 +1,6 @@
 # 🐾 VetBot – O Assistente Virtual do Seu Pet 🐶🐱
 
-![VetBot Banner - Placeholder Image](vetbot.png)
+![VetBot](vetbot.png)
 
 **VetBot** é um assistente virtual impulsionado por inteligência artificial, projetado com carinho para ajudar tutores de cães e gatos a navegar pelas dúvidas do dia a dia sobre a saúde e o comportamento de seus companheiros de quatro patas. Ele oferece informações educativas claras e baseadas em conhecimento veterinário, dicas de cuidados gerais e orientações essenciais sobre quando é o momento certo de procurar um médico veterinário profissional.
 
@@ -64,11 +64,17 @@ Para rodar o VetBot localmente no Google Colab, você precisará:
 
 Após configurar e executar o notebook no Google Colab:
 
-1.  O VetBot iniciará no terminal do Colab.
+1.  O VetBot iniciará no terminal do Colab, com auxílio o Gradio, que gerará um link para acesso em outra aba.
 2.  Siga as instruções, fornecendo os detalhes solicitados sobre o seu pet (Nome, Espécie, Idade, etc.) e descreva o sintoma ou comportamento que te preocupa.
 3.  O VetBot processará as informações através de seus agentes.
 4.  Aguarde a resposta final, que incluirá informações educativas sobre o sintoma, a possível classificação de urgência e, se o CEP foi informado, sugestões de locais veterinários próximos.
 
+## Imagens da Interface
+
+![VetBotSS1](ss1.png)
+![VetBotSS2](ss2.png)
+![VetBotSS3](ss3.png)
+ 
 ## 🌱 Próximos Passos e Evolução
 
 O VetBot é um projeto em constante aprimoramento. Algumas possibilidades futuras incluem:
