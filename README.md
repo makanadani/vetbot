@@ -69,7 +69,7 @@ Após configurar e executar o notebook no Google Colab:
 3.  O VetBot processará as informações através de seus agentes.
 4.  Aguarde a resposta final, que incluirá informações educativas sobre o sintoma, a possível classificação de urgência e, se o CEP foi informado, sugestões de locais veterinários próximos.
 
-## Imagens da Interface
+## 🖥️ Imagens da Interface
 
 ![VetBotSS1](ss1.png)
 ![VetBotSS2](ss2.png)
